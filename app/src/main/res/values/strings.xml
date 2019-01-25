@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogImages</string>
+    <string name="dog_image_imageview">Dog Image imageView description</string>
+</resources>
